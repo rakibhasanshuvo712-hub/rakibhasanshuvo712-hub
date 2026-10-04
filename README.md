@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rakib Hasan Shuvo</h1>
+<img width="1600" height="400" alt="IMG-20260926-WA0003(1) jpg" src="https://github.com/user-attachments/assets/d09eeb27-c050-4a50-8bed-e0ccd6072537" />
+
+ <h1 align="center">Hi 👋, I'm Rakib Hasan Shuvo</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **web development**
