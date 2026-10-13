@@ -267,14 +267,7 @@ pie showData title My Learning Focus
   <img width="85%" src="https://streak-stats.demolab.com?user=rakibhasanshuvo712-hub&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </a>
 
-### 🌌 Activity Graph
-<a href="https://github.com/rakibhasanshuvo712-hub">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rakibhasanshuvo712-hub&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</a>
 
-### 🏆 Profile Trophies
-<a href="https://github.com/rakibhasanshuvo712-hub">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rakibhasanshuvo712-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub trophies" />
 </a>
 
 </div>
