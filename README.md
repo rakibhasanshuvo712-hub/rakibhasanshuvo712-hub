@@ -1,337 +1,424 @@
-
-<!-- =========================================================
-     RAKIB HASAN SHUVO | GITHUB PROFILE README
-     Repository: rakibhasanshuvo712-hub
-     ========================================================= -->
-
-<!-- ORIGINAL BANNER — PRESERVED -->
-<div align="center">
-  <img
-    src="https://github.com/user-attachments/assets/d09eeb27-c050-4a50-8bed-e0ccd6072537"
-    alt="Rakib Hasan Shuvo's GitHub profile banner"
-    width="100%"
-  />
-</div>
+<!-- ORIGINAL BANNER — DO NOT REMOVE -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d09eeb27-c050-4a50-8bed-e0ccd6072537" alt="Rakib Hasan Shuvo's original banner" width="100%" />
+</p>
 
 <div align="center">
 
-  <h1>Hi there, I'm Rakib Hasan Shuvo 👋</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Rakib+Hasan+Shuvo+%F0%9F%91%8B;Full-Stack+Developer+in+Progress+%F0%9F%87%A7%F0%9F%87%A9;Learning+Web+Development;Building+Projects+One+Step+at+a+Time;Exploring+Modern+Web+Technologies;Learn.+Build.+Improve." alt="Animated introduction" />
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Aspiring+Full-Stack+Web+Developer;Learning+%26+Building+Every+Day;Frontend+%7C+Backend+%7C+Databases;Turning+Ideas+Into+Web+Experiences"
-    alt="Animated introduction"
-  />
+### *Curiosity creates ideas. Code turns them into reality.*
 
-  <br/>
+<br/>
 
-  <a href="https://github.com/rakibhasanshuvo712-hub">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-  </a>
-  <a href="mailto:rakibhasanshuvo712@gmail.com?subject=Hello%20Rakib%20Hasan%20Shuvo">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rakib"/>
-  </a>
-  <a href="https://github.com/rakibhasanshuvo712-hub?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-  </a>
+<a href="mailto:rakibhasanshuvo712@gmail.com?subject=Hello%20Rakib">
+  <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/rakibhasanshuvo712-hub">
+  <img src="https://img.shields.io/badge/GITHUB-My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://github.com/rakibhasanshuvo712-hub?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJECTS-Explore%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+</a>
 
-  <br/><br/>
+<br/>
 
-  <img src="https://komarev.com/ghpvc/?username=rakibhasanshuvo712-hub&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=rakibhasanshuvo712-hub&style=for-the-badge&color=0891B2&label=PROFILE+VISITS" alt="Profile visits" />
+<a href="https://github.com/rakibhasanshuvo712-hub?tab=followers">
+  <img src="https://img.shields.io/github/followers/rakibhasanshuvo712-hub?style=for-the-badge&logo=github&color=4F46E5&labelColor=0d1117" alt="Followers" />
+</a>
+<a href="https://github.com/rakibhasanshuvo712-hub?tab=repositories">
+  <img src="https://img.shields.io/github/stars/rakibhasanshuvo712-hub?style=for-the-badge&logo=github&color=7C3AED&labelColor=0d1117&affiliations=OWNER" alt="Stars" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍_Location-Bangladesh_🇧🇩-0891B2?style=flat-square&labelColor=0d1117" alt="Location" />
+<img src="https://img.shields.io/badge/🌱_Learning-Full--Stack_Web_Dev-4F46E5?style=flat-square&labelColor=0d1117" alt="Learning" />
+<img src="https://img.shields.io/badge/🤝_Open_to-Collaboration-7C3AED?style=flat-square&labelColor=0d1117" alt="Open to collaboration" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 📑 Quick Navigation
 
-Hello! I'm **Rakib Hasan Shuvo**, a computer science student and aspiring web developer who enjoys learning new technologies, solving problems, and building practical projects.
+<div align="center">
 
-- 🎓 Studying Computer Science and Engineering.
-- 💻 Exploring frontend and full-stack web development.
-- 🌱 Continuously improving my programming and software development skills.
-- 🧠 Practicing problem-solving, database design, and application development.
-- 🛠️ Learning by building projects and experimenting with new tools.
-- 🎯 Goal: Become a skilled developer and build useful, reliable applications.
-- 🤝 Open to collaborating on beginner-friendly projects and learning opportunities.
+[🧬 About](#-about-me) • [💻 Code Identity](#-my-code-identity) • [⚡ Tech Stack](#-technology-stack) • [🧰 Skills](#-skills--concepts) • [🚀 Projects](#-projects--repository-explorer) • [🔬 Exploring](#-what-im-exploring) • [📊 Analytics](#-github-analytics) • [🗺️ Roadmap](#%EF%B8%8F-developer-roadmap) • [🧠 Principles](#-my-development-principles) • [🤝 Contact](#-contact-me)
 
-> **My philosophy:** Learn consistently, build with purpose, and improve with every project.
+</div>
 
 ---
 
-## 🧭 My Development Journey
+## 🧬 About Me
 
-<div align="center">
+I'm **Rakib Hasan Shuvo**, a developer from Bangladesh 🇧🇩 interested in web development, programming, and creating useful digital experiences. I enjoy turning ideas into working products, one commit at a time.
 
-| Stage | Focus Areas |
-|:---:|---|
-| **01** | Programming fundamentals and problem-solving |
-| **02** | HTML, CSS, JavaScript, and responsive design |
-| **03** | React, TypeScript, and reusable UI components |
-| **04** | APIs, authentication, and frontend integration |
-| **05** | Node.js, Express.js, and backend development |
-| **06** | MongoDB, MySQL, and data management |
-| **07** | Full-stack projects, testing, and deployment |
+| | |
+| :-- | :-- |
+| 🌱 **Currently learning** | Full-stack web development |
+| 💻 **Interested in** | Frontend, backend, and database technologies |
+| 🧠 **Mindset** | Learn the fundamentals and improve through practice |
+| 🎯 **Goal** | Build practical projects and strengthen my development skills |
+| 🤝 **Open to** | Collaboration, sharing knowledge, and learning from developers |
 
-</div>
-
-*This is my learning roadmap. The technologies listed below represent a mix of tools I use, explore, or plan to learn—not a claim of expertise in every technology.*
+> ✨ **Learn something new. Build something useful. Improve something every day.**
 
 ---
 
-## 🧰 Technologies & Tools
+## 💻 My Code Identity
 
-### 🌐 Frontend Development
+```javascript
+const rakib = {
+  name: "Rakib Hasan Shuvo",
+  from: "Bangladesh 🇧🇩",
+  role: "Full-Stack Developer in Progress",
+  learning: ["Frontend", "Backend", "Databases", "Real-world projects"],
+  mindset: "Learn the fundamentals, improve through practice",
+  currentGoal: "Build practical projects and keep growing",
+  contact: "rakibhasanshuvo712@gmail.com",
+
+  motto() {
+    return "Learn. Build. Improve.";
+  },
+};
+```
+
+---
+
+## ⚡ Technology Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" alt="Frontend technologies"/>
-</div>
-
-### ⚙️ Backend Development
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase&perline=8" alt="Backend and authentication technologies"/>
-</div>
-
-### 🗄️ Databases
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=8" alt="Database technologies"/>
-</div>
 
 ### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript&theme=dark" alt="C, Java, Python, JavaScript, TypeScript" />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&perline=8" alt="Programming languages"/>
-</div>
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux,nextjs,vite&theme=dark" alt="HTML, CSS, Bootstrap, Tailwind, React, Redux, Next.js, Vite" />
 
-### 🛠️ Development Tools
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase&theme=dark" alt="Node.js, Express, NestJS, Firebase" />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=8" alt="Development tools"/>
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB and MySQL" />
+
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma,npm,vercel,netlify&theme=dark" alt="Git, GitHub, Linux, VS Code, Postman, Figma, npm, Vercel, Netlify" />
+
+<br/>
+
+### 🏷️ Quick Badge View
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+
 </div>
 
 ---
 
-## 📚 What I'm Learning
+## 🧰 Skills & Concepts
 
-<details>
-  <summary><b>🌐 HTML & CSS</b></summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  - Semantic HTML and accessible page structure
-  - Forms, tables, and reusable page layouts
-  - CSS selectors, the box model, and positioning
-  - Flexbox, CSS Grid, and responsive design
-  - Tailwind CSS utility classes
-</details>
+### 🎨 Frontend
+- HTML5 semantic structure and accessibility
+- CSS3: Flexbox, Grid, animations, responsive design
+- Tailwind CSS and component libraries
+- JavaScript (ES6+): DOM, events, async/await, fetch
+- React: components, props, state, hooks
+- React Router and client-side routing
+- Context API and global state management
+- Data fetching and caching with TanStack Query
+- Forms, validation and user feedback
+- Next.js and TypeScript fundamentals
 
-<details>
-  <summary><b>⚡ JavaScript & TypeScript</b></summary>
+</td>
+<td width="50%" valign="top">
 
-  - Variables, functions, arrays, objects, and loops
-  - Modern JavaScript (ES6+)
-  - Destructuring, modules, and array methods
-  - DOM manipulation and event handling
-  - Promises, async/await, Fetch API, and JSON
-  - Type annotations, interfaces, and TypeScript types
-</details>
+### ⚙️ Backend
+- Node.js runtime and npm ecosystem
+- Express.js: routing, middleware, REST APIs
+- MongoDB and Mongoose data modeling
+- CRUD operations and query design
+- Authentication: Firebase Auth, JWT, protected routes
+- Environment variables and secure configuration
+- CORS, cookies, and API security basics
+- Payment and third-party API integration
+- Error handling and API testing with Postman
 
-<details>
-  <summary><b>⚛️ React & Frontend Applications</b></summary>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-  - JSX, components, props, and state
-  - React hooks, including useState
-  - Rendering lists and handling events
-  - Forms and conditional rendering
-  - Routing and reusable UI patterns
-  - Fetching and displaying API data
-</details>
+### 🧩 Programming Fundamentals
+- Problem-solving and debugging
+- Data structures and algorithms basics
+- Object-oriented thinking
+- Clean, readable, maintainable code
+- Reading documentation efficiently
 
-<details>
-  <summary><b>🔐 Authentication & APIs</b></summary>
+</td>
+<td width="50%" valign="top">
 
-  - User registration and login flows
-  - Authentication with Firebase
-  - Protected pages and route handling
-  - HTTP methods and REST API concepts
-  - Error handling and environment variables
-</details>
+### 🛠️ Workflow & Deployment
+- Git, GitHub, branching and pull requests
+- Linux command line basics
+- Deploying frontend and backend apps (Vercel, Netlify)
+- Responsive and cross-browser testing
+- Project documentation and README writing
 
-<details>
-  <summary><b>🖥️ Backend & Databases</b></summary>
-
-  - Node.js and Express.js fundamentals
-  - REST endpoints and middleware
-  - CRUD operations and request validation
-  - MongoDB documents and queries
-  - MySQL tables, relationships, and joins
-  - Connecting frontend applications to backend services
-</details>
-
-<details>
-  <summary><b>🚀 Git, GitHub & Deployment</b></summary>
-
-  - Version control and repository management
-  - Commits, branches, and pull requests
-  - README documentation
-  - Environment configuration
-  - Deploying web applications
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects & Repository Explorer
 
-Explore my repositories to see my progress, experiments, and projects.
+Explore my actual repositories, programming experiments, and future projects.
 
 <div align="center">
 
-  <a href="https://github.com/rakibhasanshuvo712-hub?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Explore-All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore all repositories"
-    />
-  </a>
+<a href="https://github.com/rakibhasanshuvo712-hub?tab=repositories">
+  <img src="https://img.shields.io/badge/OPEN-ALL%20REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Open all repositories" />
+</a>
+<a href="https://github.com/rakibhasanshuvo712-hub?tab=stars">
+  <img src="https://img.shields.io/badge/VIEW-STARRED%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View starred repositories" />
+</a>
 
 </div>
 
-<!-- Add your best projects here as you publish them.
-Example:
+<!--
+FEATURED PROJECT CARDS
+1. Replace REPO_NAME with your real repository name.
+2. Then remove the comment start and end lines that wrap this block.
 
-### Project Name
-A short description of what the project does.
-
-**Technologies:** React, TypeScript, Tailwind CSS
-
-[View Project](YOUR_REPOSITORY_URL) · [Live Demo](YOUR_DEPLOYED_URL)
+<div align="center">
+<a href="https://github.com/rakibhasanshuvo712-hub/REPO_NAME">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rakibhasanshuvo712-hub&repo=REPO_NAME&theme=tokyonight&hide_border=true" alt="REPO_NAME" />
+</a>
+</div>
 -->
 
----
+### 🏗️ Project Ideas I'm Working Towards
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=rakibhasanshuvo712-hub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub statistics"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhasanshuvo712-hub&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most-used languages on public repositories"
-  />
-
-  <br/><br/>
-
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=rakibhasanshuvo712-hub&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-
-</div>
-
-> Statistics depend on public repository data and third-party services. Language cards reflect repository code, not necessarily my overall skill level.
+| Project type | What I'll practice |
+| :-- | :-- |
+| 🛒 E-commerce app | Cart logic, authentication, payments, admin dashboard |
+| 📝 Blog / CMS | CRUD, rich content, user roles, database design |
+| 🎓 Learning platform | Protected routes, REST APIs, progress tracking |
+| 📊 Dashboard | Charts, data fetching, responsive layouts |
+| 💬 Real-time app | WebSockets, state sync, notifications |
 
 ---
 
-## 🐍 My Contribution Journey
+## 🔬 What I'm Exploring
+
+| Area | Focus |
+| :-- | :-- |
+| 🌐 **Web development** | Responsive interfaces and user experiences |
+| ⚙️ **Backend** | APIs, application logic, and server-side development |
+| 🗃️ **Databases** | SQL, data modeling, and database integration |
+| 🧩 **Programming** | Fundamentals, debugging, and problem-solving |
+| ✨ **UI/UX** | Clear layouts and intuitive navigation |
+| 🔐 **Security** | Authentication, authorization, safe API design |
+| ☁️ **Deployment** | Hosting, environment config, and keeping apps online |
+
+```mermaid
+pie showData title My Learning Focus
+    "Frontend" : 35
+    "Backend" : 25
+    "Databases" : 15
+    "Problem solving" : 15
+    "Deployment & tools" : 10
+```
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/rakibhasanshuvo712-hub/rakibhasanshuvo712-hub/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/rakibhasanshuvo712-hub/rakibhasanshuvo712-hub/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="Animated GitHub contribution graph"
-      src="https://raw.githubusercontent.com/rakibhasanshuvo712-hub/rakibhasanshuvo712-hub/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
+<a href="https://github.com/rakibhasanshuvo712-hub">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rakibhasanshuvo712-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/rakibhasanshuvo712-hub">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhasanshuvo712-hub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+</a>
 
-  <br/>
+### 🔥 Contribution Streak
+<a href="https://github.com/rakibhasanshuvo712-hub">
+  <img width="85%" src="https://streak-stats.demolab.com?user=rakibhasanshuvo712-hub&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</a>
 
-  <a href="https://github.com/rakibhasanshuvo712-hub">
-    <img
-      src="https://img.shields.io/badge/View-My%20GitHub%20Activity-16A34A?style=for-the-badge&logo=github&logoColor=white"
-      alt="View GitHub activity"
-    />
-  </a>
+### 🌌 Activity Graph
+<a href="https://github.com/rakibhasanshuvo712-hub">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rakibhasanshuvo712-hub&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</a>
+
+### 🏆 Profile Trophies
+<a href="https://github.com/rakibhasanshuvo712-hub">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rakibhasanshuvo712-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub trophies" />
+</a>
+
+</div>
+
+<details>
+<summary><b>📌 About these statistics</b></summary>
+
+<br/>
+
+These cards depend on free third-party services. Values may be cached, unavailable, or calculated differently from GitHub's own contribution display. Language distribution is an estimate of repository code, not a measurement of programming skill.
+
+**If a card is blank:** wait a few minutes and refresh, because the service may be rate-limited. A new account with few public commits will also show small numbers at first.
+
+</details>
+
+---
+
+## 🗺️ Developer Roadmap
+
+```mermaid
+flowchart TD
+    A([🧩 Programming Fundamentals]) --> B([🌐 Web Fundamentals])
+    B --> C([🎨 Frontend Development])
+    C --> D([⚙️ Backend Development])
+    D --> E([🗄️ Database Systems])
+    E --> F([🚀 Practical Projects])
+    F --> G([🧪 Testing & Refinement])
+    G --> H([🔄 Keep Learning & Grow])
+    H -.-> C
+    style A fill:#0891B2,color:#fff,stroke:none
+    style B fill:#0E7490,color:#fff,stroke:none
+    style C fill:#4F46E5,color:#fff,stroke:none
+    style D fill:#6D28D9,color:#fff,stroke:none
+    style E fill:#7C3AED,color:#fff,stroke:none
+    style F fill:#9333EA,color:#fff,stroke:none
+    style G fill:#A855F7,color:#fff,stroke:none
+    style H fill:#C026D3,color:#fff,stroke:none
+```
+
+```mermaid
+timeline
+    title My Continuous Learning Journey
+    Foundation : Programming basics
+               : HTML, CSS, JavaScript
+    Frontend   : React and Tailwind CSS
+               : Responsive, accessible UI
+    Backend    : Node.js and Express
+               : REST APIs and authentication
+    Databases  : MongoDB and SQL
+               : Data modeling
+    Projects   : Full-stack applications
+               : Deployment and documentation
+```
+
+<details>
+<summary><b>🎯 Skills I want to strengthen</b></summary>
+
+- Improve programming fundamentals.
+- Create responsive and accessible interfaces.
+- Understand backend APIs and server-side logic.
+- Practice database design and queries.
+- Improve Git and GitHub workflows.
+- Build, test, document, and deploy useful projects.
+
+</details>
+
+---
+
+## 🔄 My Daily Workflow
+
+```bash
+# 1. Learn something new
+# 2. Build a small thing with it
+# 3. Break it, debug it, fix it
+# 4. Commit with a clear message
+git add .
+git commit -m "feat: add what I learned today"
+git push origin main
+# 5. Repeat tomorrow 🔁
+```
+
+---
+
+## 🧠 My Development Principles
+
+<div align="center">
+
+| Icon | Principle |
+| :-: | :-- |
+| 🔍 | Stay curious and ask better questions. |
+| 🧱 | Build strong technical foundations. |
+| 🧪 | Experiment and learn from mistakes. |
+| 🧹 | Write readable, maintainable code. |
+| 🤝 | Share knowledge and collaborate. |
+| 🔄 | Keep improving through practice. |
 
 </div>
 
 ---
 
-## 🏆 Achievements & Milestones
+## 🤔 Fun Facts
 
-<div align="center">
+<details>
+<summary><b>Click to open</b></summary>
 
-  <a href="https://github.com/rakibhasanshuvo712-hub">
-    <img
-      src="https://img.shields.io/badge/GITHUB-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View GitHub profile"
-    />
-  </a>
+- 🇧🇩 I'm building my developer journey from Bangladesh.
+- 🧪 I learn best by building small projects and breaking them.
+- 🌙 Debugging is just a puzzle with a deadline.
+- 🔁 My favorite loop: learn → build → improve.
 
-  <a href="https://github.com/rakibhasanshuvo712-hub?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/PROJECTS-Explore%20Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore repositories"
-    />
-  </a>
-
-</div>
-
-My progress is a work in progress. Visit my GitHub profile to see my repositories, contributions, and any achievements available on my account.
+</details>
 
 ---
 
-## 🤝 Let's Connect
-
-Interested in collaborating, discussing web development, or sharing ideas? Feel free to reach out.
+## 🤝 Contact Me
 
 <div align="center">
 
-  <a href="mailto:rakibhasanshuvo712@gmail.com?subject=Hello%20Rakib%20Hasan%20Shuvo">
-    <img
-      src="https://img.shields.io/badge/Email-Rakib%20Hasan%20Shuvo-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email Rakib Hasan Shuvo"
-    />
-  </a>
+**Have a question or want to connect?**<br/>
+The email button below opens a new message addressed to **rakibhasanshuvo712@gmail.com** in your email app.
 
-  <a href="https://github.com/rakibhasanshuvo712-hub">
-    <img
-      src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Visit GitHub profile"
-    />
-  </a>
+<a href="mailto:rakibhasanshuvo712@gmail.com?subject=Hello%20Rakib%20Hasan%20Shuvo">
+  <img src="https://img.shields.io/badge/EMAIL-RAKIB%20HASAN%20SHUVO-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rakib Hasan Shuvo" />
+</a>
+<a href="https://github.com/rakibhasanshuvo712-hub">
+  <img src="https://img.shields.io/badge/VISIT-GITHUB%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub" />
+</a>
+<a href="https://github.com/rakibhasanshuvo712-hub?tab=repositories">
+  <img src="https://img.shields.io/badge/BROWSE-MY%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Browse projects" />
+</a>
 
-  <br/><br/>
+<br/><br/>
 
-  **Email:** [rakibhasanshuvo712@gmail.com](mailto:rakibhasanshuvo712@gmail.com)
+### Thanks for visiting my GitHub profile! 💙
+**Keep learning. Keep building. Keep moving forward.**
 
-</div>
-
----
-
-<div align="center">
-
-  ### 💡 Learn. Build. Improve. Repeat.
-
-  *Thanks for visiting my profile! Have a great day.* ✨
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=120&section=footer"
-    width="100%"
-    alt="Decorative footer wave"
-  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:4F46E5,100:7C3AED&height=130&section=footer" alt="Cyan and violet footer decoration" />
 
 </div>
+
+<!--
+EXTERNAL SERVICE NOTES
+Banner = your original image.
+Typing text, skill icons, badges, visit counter, stats, streak, activity graph,
+trophies and footer are external services. If one fails, test its URL
+separately in a browser; it is usually that service being slow or rate-limited.
+-->
