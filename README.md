@@ -1,6 +1,7 @@
 <!-- ORIGINAL BANNER — DO NOT REMOVE -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d09eeb27-c050-4a50-8bed-e0ccd6072537" alt="Rakib Hasan Shuvo's original banner" width="100%" />
+  <img width="2048" height="512" alt="WhatsApp Image 2026-10-13 at 11 27 15 AM" src="https://github.com/user-attachments/assets/f528ca62-159a-4763-a4ee-0dc5c0125e5d" />
+
 </p>
 
 <div align="center">
