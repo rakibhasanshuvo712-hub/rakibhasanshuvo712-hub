@@ -1,192 +1,267 @@
-<!-- 1. YOUR EXACT ORIGINAL BANNER (PRESERVED 100%) -->
-<img width="1600" height="400" alt="IMG-20260926-WA0003(1) jpg" src="https://github.com/user-attachments/assets/d09eeb27-c050-4a50-8bed-e0ccd6072537" />
+<!-- ======================================================
+     RAKIB HASAN SHUVO | GITHUB PROFILE README
+     Original banner preserved
+======================================================= -->
 
-<br/>
+<!-- ORIGINAL BANNER — DO NOT REMOVE -->
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/d09eeb27-c050-4a50-8bed-e0ccd6072537"
+    alt="Rakib Hasan Shuvo's original banner"
+    width="100%"
+  />
+</p>
 
-<!-- 2. DYNAMIC TYPING HEADER (Factual & Professional) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Programming+Hero+Batch+14;Mastering+the+MERN+Stack;Building+Responsive+%26+Scalable+Apps" alt="Typing SVG" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=rakibhasanshuvo712-hub&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+
+# 👋 Hi, I'm Rakib Hasan Shuvo
+
+### Full-Stack Developer in Progress 🇧🇩
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Learning+Web+Development;Building+Projects+One+Step+at+a+Time;Exploring+Modern+Web+Technologies;Learn.+Build.+Improve."
+  alt="Animated developer introduction"
+/>
+
+<p>
+  <a href="mailto:rakibhasanshuvo712@gmail.com?subject=Hello%20Rakib">
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rakib Hasan Shuvo" />
+  </a>
+  <a href="https://github.com/rakibhasanshuvo712-hub">
+    <img src="https://img.shields.io/badge/GITHUB-My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub profile" />
+  </a>
+  <a href="https://github.com/rakibhasanshuvo712-hub?tab=repositories">
+    <img src="https://img.shields.io/badge/PROJECTS-Explore%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+</p>
+
+<img
+  src="https://komarev.com/ghpvc/?username=rakibhasanshuvo712-hub&style=flat-square&color=0891B2&label=PROFILE+VISITS"
+  alt="Profile visit counter"
+/>
+
+<p><i>Curiosity creates ideas. Code turns them into reality.</i></p>
+
 </div>
 
-<br/>
+---
 
-<!-- 3. FACTUAL ABOUT ME -->
-### 🧑‍💻 About Me
-- 🎓 Currently advancing my skills through **Programming Hero Batch 14 (Full Stack Web Development)**.
-- 🌱 I’m actively learning and mastering **advanced MERN stack patterns, system design, and cloud deployment**.
-- 💡 I focus on writing clean, maintainable code and building responsive, user-centric web applications.
-- 🌍 Based in **Bangladesh** 🇧🇩
-- 📫 Reach me at: **rakibhasanshuvo7171@gmail.com** or **rakibhasanshuvo712@gmail.com**
-- 🤝 Open to **collaborations, open-source contributions, and junior full-stack roles**.
+## 🧬 About Me
 
-<br/>
+I'm Rakib Hasan Shuvo, a developer from Bangladesh interested in web development, programming, and creating useful digital experiences.
 
-<!-- 4. EDUCATION / CERTIFICATION HIGHLIGHT (Unique & Credible) -->
-### 🎓 Education & Certifications
-> **Programming Hero** | *Full Stack Web Development (Batch 14)*
-> - **Core Focus**: MERN Stack (MongoDB, Express.js, React.js, Node.js)
-> - **Key Concepts**: RESTful APIs, JWT Authentication, State Management, Responsive UI, CRUD Operations, and Cloud Deployment.
+- 🌱 **Currently learning:** Web development.
+- 💻 **Interested in:** Frontend, backend, and database technologies.
+- 🧠 **Mindset:** Learn the fundamentals and improve through practice.
+- 🎯 **Goal:** Build practical projects and strengthen my development skills.
+- 🤝 **Interested in:** Collaboration, sharing knowledge, and learning from developers.
 
-<br/>
+> Learn something new. Build something useful. Improve something every day.
 
-<!-- 5. ULTIMATE TECH STACK DASHBOARD (Expanded with Batch 14 Skills) -->
-### 🛠️ Technologies & Tools
-<p align="center">
-  <table align="center">
-    <!-- FRONTEND -->
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-        <br><sub>HTML5</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-        <br><sub>CSS3</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
-        <br><sub>Tailwind</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        <br><sub>JavaScript</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
-        <br><sub>React.js</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
-        <br><sub>Firebase</sub>
-      </td>
-    </tr>
-    <!-- BACKEND & DATABASE -->
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-        <br><sub>Node.js</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-        <br><sub>Express.js</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-        <br><sub>MongoDB</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-        <br><sub>MySQL</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS" />
-        <br><sub>NestJS</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-        <br><sub>Next.js</sub>
-      </td>
-    </tr>
-    <!-- LANGUAGES & TOOLS -->
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-        <br><sub>TypeScript</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-        <br><sub>Python</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-        <br><sub>Java</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48" height="48" alt="C" />
-        <br><sub>C</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-        <br><sub>Git</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-        <br><sub>Linux</sub>
-      </td>
-    </tr>
-    <!-- DEPLOYMENT & EXTRA -->
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
-        <br><sub>Postman</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" />
-        <br><sub>Vercel</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="48" height="48" alt="Netlify" />
-        <br><sub>Netlify</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-        <br><sub>VS Code</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-        <br><sub>GitHub</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
-        <br><sub>NPM</sub>
-      </td>
-    </tr>
-  </table>
-</p>
+---
 
-<br/>
+## ⚡ Technology Stack
 
-<!-- 6. ADVANCED GITHUB ANALYTICS DASHBOARD (100% Real Data) -->
-### 📊 GitHub Analytics & Activity
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakibhasanshuvo712-hub&theme=github_dark" alt="Profile Details" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakibhasanshuvo712-hub&theme=github_dark" alt="Top Languages" width="49%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakibhasanshuvo712-hub&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhasanshuvo712-hub&theme=github_dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
-</p>
+### 💻 Programming Languages
 
-<br/>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript&theme=dark" alt="C, Java, Python, JavaScript, TypeScript" />
 
-<!-- 7. GAMIFIED GITHUB TROPHIES -->
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakibhasanshuvo712-hub&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
+### 🎨 Frontend Development
 
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, React, Next.js, Tailwind CSS" />
 
-<!-- 8. CLEAN CONNECT SECTION -->
-### 🤝 Let's Connect
-<p align="center">
-  <a href="mailto:rakibhasanshuvo7171@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/rakibhasanshuvo712-hub" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+### ⚙️ Backend Development
 
-<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Node.js, Express, NestJS" />
 
-<!-- 9. MINIMALIST FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
-</p>
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB and MySQL" />
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Git, GitHub, Linux, Visual Studio Code" />
+
+</div>
+
+---
+
+## 🚀 Projects & Repository Explorer
+
+Explore my actual repositories, programming experiments, and future projects.
+
+<div align="center">
+
+<a href="https://github.com/rakibhasanshuvo712-hub?tab=repositories">
+  <img src="https://img.shields.io/badge/OPEN-ALL%20REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Open all repositories" />
+</a>
+
+<a href="https://github.com/rakibhasanshuvo712-hub?tab=stars">
+  <img src="https://img.shields.io/badge/VIEW-STARRED%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View starred repositories" />
+</a>
+
+</div>
+
+### 🔬 What I'm exploring
+
+| Area | Focus |
+|---|---|
+| 🌐 Web development | Responsive interfaces and user experiences |
+| ⚙️ Backend | APIs, application logic, and server-side development |
+| 🗃️ Databases | SQL, data modeling, and database integration |
+| 🧩 Programming | Fundamentals, debugging, and problem-solving |
+| ✨ UI/UX | Clear layouts and intuitive navigation |
+
+*Only real repository links are used here. Add specific project cards after choosing the repository names you want to feature.*
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/rakibhasanshuvo712-hub">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rakibhasanshuvo712-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/rakibhasanshuvo712-hub">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhasanshuvo712-hub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+</a>
+
+### 🔥 Contribution Streak
+
+<a href="https://github.com/rakibhasanshuvo712-hub">
+  <img width="85%" src="https://streak-stats.demolab.com?user=rakibhasanshuvo712-hub&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</a>
+
+### 🌌 Activity Graph
+
+<a href="https://github.com/rakibhasanshuvo712-hub">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rakibhasanshuvo712-hub&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</a>
+
+### 🏆 Profile Trophies
+
+<a href="https://github.com/rakibhasanshuvo712-hub">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rakibhasanshuvo712-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub trophies" />
+</a>
+
+</div>
+
+<details>
+<summary><b>📌 About these statistics</b></summary>
+
+These cards depend on third-party services. Values may be cached, unavailable, or calculated differently from GitHub's own contribution display. Language distribution is an estimate of repository code, not a measurement of programming skill.
+
+</details>
+
+---
+
+## 🗺️ Developer Roadmap
+
+<div align="center">
+
+```text
+          MY CONTINUOUS LEARNING JOURNEY
+
+                   Programming
+                        |
+                        v
+                  Web Fundamentals
+                        |
+                        v
+                 Frontend Development
+                        |
+                        v
+                 Backend Development
+                        |
+                        v
+                  Database Systems
+                        |
+                        v
+                 Practical Projects
+                        |
+                        v
+                 Testing & Refinement
+                        |
+                        v
+                 Keep Learning & Grow
+```
+
+</div>
+
+<details>
+<summary><b>🎯 Skills I want to strengthen</b></summary>
+
+- [ ] Improve programming fundamentals.
+- [ ] Create responsive and accessible interfaces.
+- [ ] Understand backend APIs and server-side logic.
+- [ ] Practice database design and queries.
+- [ ] Improve Git and GitHub workflows.
+- [ ] Build, test, document, and deploy useful projects.
+
+</details>
+
+---
+
+## 🧠 My Development Principles
+
+<div align="center">
+
+| Icon | Principle |
+|:---:|---|
+| 🔍 | Stay curious and ask better questions. |
+| 🧱 | Build strong technical foundations. |
+| 🧪 | Experiment and learn from mistakes. |
+| 🧹 | Write readable, maintainable code. |
+| 🤝 | Share knowledge and collaborate. |
+| 🔄 | Keep improving through practice. |
+
+</div>
+
+---
+
+## 🤝 Contact Me
+
+<div align="center">
+
+### Have a question or want to connect?
+
+The email button below opens a new message addressed to **rakibhasanshuvo712@gmail.com** in the visitor's configured email application.
+
+<a href="mailto:rakibhasanshuvo712@gmail.com?subject=Hello%20Rakib%20Hasan%20Shuvo">
+  <img src="https://img.shields.io/badge/EMAIL-RAKIBHASANS HUVO-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rakib Hasan Shuvo" />
+</a>
+
+<a href="https://github.com/rakibhasanshuvo712-hub">
+  <img src="https://img.shields.io/badge/VISIT-GITHUB%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub" />
+</a>
+
+<a href="https://github.com/rakibhasanshuvo712-hub?tab=repositories">
+  <img src="https://img.shields.io/badge/BROWSE-MY%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Browse projects" />
+</a>
+
+<br/><br/>
+
+**Thanks for visiting my GitHub profile!**
+
+*Keep learning. Keep building. Keep moving forward.*
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:4F46E5,100:7C3AED&height=130&section=footer"
+  alt="Cyan and violet footer decoration"
+/>
+
+</div>
+
+<!--
+EXTERNAL SERVICE NOTES
+The banner is your original image.
+Animated text, skill icons, visitor counter, stats, graph, trophies,
+and footer are external image services.
+If one fails, check that service independently.
+-->
+
+<!-- END OF README --> 
